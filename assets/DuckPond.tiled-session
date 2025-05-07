@@ -1,0 +1,28 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "/Users/dylanavila/Desktop/CMPM 120/2B- Gallery Shooter/Gallery Shooter/assets",
+    "last.imagePath": "/Users/dylanavila/Desktop/CMPM 120/2B- Gallery Shooter/Gallery Shooter/assets",
+    "map.height": 25,
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.width": 19,
+    "openFiles": [
+    ],
+    "project": "DuckPond.tiled-project",
+    "recentFiles": [
+    ],
+    "tileset.embedInMap": true
+}
