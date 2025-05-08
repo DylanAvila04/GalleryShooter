@@ -1,4 +1,4 @@
-class Feed extends Phaser.scene {
+class Feed extends Phaser.Scene {
     constructor() {
         super("feedScene");
         this.my = { sprite: {} };
